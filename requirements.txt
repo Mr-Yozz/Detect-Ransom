@@ -1,0 +1,11 @@
+pip == 24.0
+pyfiglet == 1.0.2
+psutil == 5.9.8
+cryptography == 42.0.5
+tqdm == 4.66.2
+ascii-magic == 2.3.0
+selenium == 4.20.0
+subprocess 
+platform
+psutil
+winreg
