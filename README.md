@@ -1,13 +1,11 @@
 # Ransomware Detection
 
-# Detect-Ransom
-ransomware detection tool , used for windows 
-<img src="images/Screenshot 1.jpg"></img>
+<img src="D:\vs code\project_ransom\images\Screenshot 1.png"></img>
 
 ## Overview
 The Ransomware Detection Tool is a Command Line (CMD) application designed to identify and prevent ransomware attacks on computer systems. Ransomware is a type of malware that encrypts files or locks users out of their systems, demanding payment (usually in cryptocurrency) for decryption or access.
 
-<img src="images/Screenshot 2.jpg"></img>
+<img src="images/Screenshot 2.png"></img>
 
 ## Features
 - Encrypts specified file types within a target directory.
@@ -18,9 +16,9 @@ The Ransomware Detection Tool is a Command Line (CMD) application designed to id
 - Hash Scaning.
 
 ## Usage
-**`Important`:** This tool should only be used in Windows where all participants have given consent. Do not use this tool on any system without explicit permission. For more, read [SECURE](SECURITY.md)
+**`Important`:** This tool should only be used in Windows where all participants have given consent. Do not use this tool on any system without explicit permission.
 
-<img src="images/Screenshot 3.jpg"></img>
+<img src="images/Screenshot 3.png"></img>
 
 ## Requirements
 
@@ -81,9 +79,9 @@ The Ransomware Detection Tool is a Command Line (CMD) application designed to id
 3. Run `main.py` to start the encryption process.
 4. Follow the instructions displayed on the console.
 
-<img src="images/Screenshot 4.jpg"></img>
-<img src="images/Screenshot 5.jpg"></img>
-<img src="images/Screenshot 6.jpg"></img>
+<img src="images/Screenshot 4.png"></img>
+<img src="images/Screenshot 5.png"></img>
+<img src="images/Screenshot 6.png"></img>
 
 ## Disclaimer
 Detect-Ransom is developed for educational purposes only. The Detection for Ransomwares. This tool should not be used in any unauthorized or illegal manner. Always ensure ethical and legal use of this tool.
@@ -101,12 +99,9 @@ Contributions, suggestions, and feedback are welcome. Please create an issue or 
 ## Contact
 For any inquiries or further information, you can reach me through the following channels:
 
-- LinkedIn : [Halil Ibrahim Deniz](https://www.linkedin.com/in/halil-ibrahim-deniz/)
-- Instagram: [deniz.halil333](https://www.instagram.com/deniz.halil333/)
+- LinkedIn : [Yogesh](https://www.linkedin.com/in/yogeshwaran-s-64a94529b)
+- Instagram: [Mr.Yozz](https://www.instagram.com/mr__yozz__/)
 - Email    : yogeshwaran03042002@gmail.com
 
-
-## License
-RansomwareSim is released under the [MIT License](LICENSE). See LICENSE for more information.
 
   
